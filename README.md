@@ -1,4 +1,4 @@
-# application3
+# Final Assignment (Flutter App)
 
 A new Flutter project.
 
